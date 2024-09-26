@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #d2d8e2;
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+  /* font-size: calc(10px + 2vmin); */
+}
+.AddListingForm {
+  background-color: #e913c5;
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  height: max-content;
+}
+.ListingsDisplay {
+  text-align: center;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
